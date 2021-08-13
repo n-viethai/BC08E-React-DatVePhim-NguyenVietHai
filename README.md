@@ -1,3 +1,3 @@
 Đặt vé xem phim
 <br />
-Link online : veithai-datvephim.surge.sh
+Link online : <a href="veithai-datvephim.surge.sh">Đặt vé phim</a>
